@@ -1,0 +1,11 @@
+# Ignorer l'environnement virtuel
+fl_env/
+
+# Ignorer les données téléchargées
+data/
+
+# Ignorer les clés cryptographiques
+*.bytes
+
+# Ignorer les fichiers temporaires de Python
+__pycache__/
